@@ -1,1 +1,9 @@
-
+Console.WriteLine("24-SET-033");
+Console.WriteLine("Software Engineering");
+Console.WriteLine("SCM");
+Console.WriteLine("Discrete");
+Console.WriteLine("OOPs");
+Console.WriteLine("Statistics");
+Console.WriteLine("Tarjama Tul Quran");
+Console.WriteLine("Functional English");
+Console.WriteLine("SDLC");
